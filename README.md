@@ -30,10 +30,9 @@
 
 - [ ] Possibilidade de realizar pesquisas pelo campo de busca da página;
 - [ ] Exibir mais imagens populares ao clicar no botão ver mais;
-- [ ] Adicionar funcionalidade de ver a imagem em tamanho grande (mnodal) quando clicar no ícone de expandir na imagem;
+- [ ] Adicionar funcionalidade de ver a imagem em tamanho grande (modal) quando clicar no ícone de expandir na imagem;
 - [ ] Adicionar o recurso de favoritar ou curtir as imagens;
 - [ ] Adicionar rotas e outras páginas na aplicação;
-- [ ] Implementar responsividade para telas menores;
 
 ---
 
