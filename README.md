@@ -1,6 +1,6 @@
-<h4 align="center"> 
-	<img alt="Alura Space" title="#AluraSpace" src="./src/componentes/Cabecalho/logo.png" />
-</h4>
+<h2 align="center"> 
+	Dev Space
+</h2>
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
@@ -11,22 +11,22 @@
 </p>
 
 <h1 align="center">
-    <img alt="Alura Space" title="#AluraSpace" src="./src/paginas/PaginaInicial/banner.png" />
+    <img alt="Alura Space" title="#DevSpace" src="./src/paginas/PaginaInicial/banner.png" />
 </h1>
 
 ## 💻 Sobre o projeto
 
-🚀 Alura Space é uma aplicação desenvolvida para um teste técnico de uma vaga de pessoa desenvolvedora front-end jr. Se trata de uma galeria de imagens criada para a empresa [Alura Space](https://www.alura.com.br/) com o objetivo de exibir as imagens incríveis que ela produz do universo observável. É uma aplicação estática, que possui apenas uma página inicial mas que é altamente escalável para adição de novas funcionalidades!
+🚀 Dev Space é uma aplicação desenvolvida para um teste técnico de uma vaga de pessoa desenvolvedora front-end jr . Se trata de uma galeria de imagens criada para a empresa [Alura](https://www.alura.com.br/) com o objetivo de exibir as imagens incríveis que ela produz do universo observável. É uma aplicação estática, que possui apenas uma página inicial mas que é altamente escalável para adição de novas funcionalidades!
 
 ---
 
-## ⚙️ Funcionalidades
+## ⚙️ Funcionalidades :
 
 - [x] Exibe uma galeria de imagens do universo;
 - [x] Possui animações de transform quando o mouse está sobre a imagem;
 - [x] Possibilidade de exibir as imagens por tags;
 
-### Em breve
+### O que pode ser implementado :
 
 - [ ] Possibilidade de realizar pesquisas pelo campo de busca da página;
 - [ ] Exibir mais imagens populares ao clicar no botão ver mais;
@@ -45,20 +45,7 @@ O layout da aplicação está disponível no Figma:
   <img alt="Feito por Isadora Cardoso - Designer Multidisciplinar | Front End" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-#### 🧭 Rodando a aplicação web (Modo desenvolvimento)
 
-```bash
-# Clone este repositório
-$ git clone https://github.com/NeiltonSeguins/alura-space.git
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd alura-space
-# Instale as dependências
-$ npm install
-# Execute a aplicação em modo de desenvolvimento
-$ npm run start
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-```
----
 
 ## 🛠 Tecnologias
 
@@ -81,23 +68,21 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="https://www.instagram.com/ncode.io/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/77410403?v=4" width="100px;" alt="Homem negro, cabelos curtos e encaracolados, nariz largo e com um sorriso no rosto. Está usando um Headset vermelho e preto. O cenário é uma parede lisa atrás com um fundo azul."/>
+<a href="https://www.instagram.com/wiliam.rozza/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/106280899?s=400&u=c99561d67e121d4546768802a0b8e93491c9775a&v=4" width="100px;" alt="Homem negro, cabelos curtos, nariz largo."/>
  <br />
- <sub><b>Neilton Seguins</b></sub></a> <a href="https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/" title="Alura Space">🚀</a>
+ <sub><b>Wiliam Roza</b></sub></a> <a href="https://www.linkedin.com/in/devfrontwill/" title="Meu Perfil">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-NeiltonSeguins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)](https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)
-[![Gmail Badge](https://img.shields.io/badge/-neilton.seguins@alura.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neilton.seguins@alura.com.br)](mailto:neilton.seguins@alura.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-WiliamRoza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devfrontwill/)](https://www.linkedin.com/in/devfrontwill/)
+[![Gmail Badge](https://img.shields.io/badge/-contato.devfrontwill@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.devfrontwill@gmail.com)](mailto:contato.devfrontwill@gmail.com)
 
 ---
 
 ## 📝 Licença
 
-Desenvolvido por [Alura](https://www.alura.com.br/).
+Desenvolvido por [DevWiLL](https://github.com/devfrontwill).
 
-Instrutor: [Neilton Seguins](https://cursos.alura.com.br/user/neilton-seguins) 
-
-👋🏽 [Entre em contato pelo Linkedin!](https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/)
+👋🏽 [Entre em contato pelo Linkedin!](https://www.linkedin.com/in/devfrontwill/)
 
 ---
