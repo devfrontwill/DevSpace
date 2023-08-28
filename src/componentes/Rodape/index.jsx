@@ -1,7 +1,5 @@
 import React from "react";
-import facebook from "./facebook.svg";
-import twitter from "./twitter.svg";
-import instagram from "./instagram.svg";
+import { BsLinkedin, BsGithub, BsInstagram } from 'react-icons/bs';
 import styles from "./Rodape.module.scss";
 
 export default function Rodape() {
@@ -9,28 +7,28 @@ export default function Rodape() {
     <footer className={styles.rodape}>
       <div className={styles.rodape__icones}>
         <a
-          href="https://www.facebook.com/AluraCursosOnline/"
+          href="https://www.linkedin.com/in/devfrontwill/"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={facebook} alt="ícone do facebook" />
+          <BsLinkedin size={24} color="#fff"/>
         </a>
         <a
-          href="https://twitter.com/aluraonline?lang=en"
+          href="https://github.com/devfrontwill"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={twitter} alt="ícone do twitter" />
+          <BsGithub size={24} color="#fff"/>
         </a>
         <a
-          href="https://www.instagram.com/aluraonline/?hl=en"
+          href="https://www.instagram.com/wiliam.rozza"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={instagram} alt="ícone do instagram" />
+          <BsInstagram size={24} color="#fff" />
         </a>
       </div>
-      <p>Desenvolvido por Alura</p>
+      <p>Desenvolvido por DevFrontWiLL</p>
     </footer>
   );
 }
