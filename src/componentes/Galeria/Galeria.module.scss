@@ -3,10 +3,12 @@
 .galeria {
   font-family: $fonte-normal;
   margin-bottom: 2rem;
+  height: 205vh;
 
   h2 {
     color: $roxo;
     font-size: 24px;
+    margin-bottom: 1rem;
   }
 
   &__cards {
@@ -72,5 +74,16 @@
     font-size: 1.25rem;
     color: $cor-do-texto;
     font-family: $fonte-bold;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .galeria {
+    height: 470vh;
+
+    h2 {
+      margin-top: -3rem;
+      margin-bottom: 2rem;
+    }
   }
 }

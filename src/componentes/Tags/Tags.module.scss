@@ -1,5 +1,5 @@
 @import "../../styles/variaveis";
- 
+
 .tags {
   width: 65vw;
   display: flex;
@@ -8,23 +8,33 @@
   color: $cor-do-texto;
   font-family: $fonte-normal;
   font-size: 16px;
- 
+  margin-bottom: 1.5rem;
+
   p {
     font-size: 1.25rem;
   }
- 
+
   &__lista {
     list-style: none;
     width: 380px;
     padding: 0;
     display: flex;
     justify-content: space-between;
- 
+
     li {
       background-color: $tag-color;
       padding: 6px 10px;
       border-radius: 8px;
       cursor: pointer;
     }
+  }
+}
+
+@media screen and (max-width: 768px){
+  .tags{
+    width: 120%;
+    margin: 1rem 1rem;
+    display: flex;
+    justify-content: space-around;
   }
 }

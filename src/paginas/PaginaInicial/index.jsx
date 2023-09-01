@@ -15,7 +15,7 @@ export default function PaginaInicial() {
           <Menu />          
           <div className={styles.principal__imagem}>
             <h1>A galeria mais completa do espaço</h1>
-            <img src={banner} alt="A imagem da terra vista do espaço" />
+            <img  className="banner" src={banner} alt="A imagem da terra vista do espaço" />
           </div>
         </section>
         <div className={styles.galeria}>

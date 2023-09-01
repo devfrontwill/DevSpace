@@ -26,3 +26,12 @@
     font-family: $fonte-normal;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .rodape{
+
+    &__icones {
+      width: 27%;
+    }
+  }
+}
