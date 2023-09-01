@@ -18,6 +18,30 @@
 
 🚀 Dev Space é uma aplicação desenvolvida para um teste técnico de uma vaga de pessoa desenvolvedora front-end jr . Se trata de uma galeria de imagens criada para a empresa [Alura](https://www.alura.com.br/) com o objetivo de exibir as imagens incríveis que ela produz do universo observável. É uma aplicação estática, que possui apenas uma página inicial mas que é altamente escalável para adição de novas funcionalidades!
 
+## Página inicial com Menu lateral e ícones com uma barra de pesquisa que não está funcional.
+![imagem1](https://github.com/devfrontwill/DevSpace/assets/106280899/10e1fefd-acc3-4a4c-9e13-0b4386dffb33)
+
+## Exibe a galera junto de suas respectivas Tags, ao clicar nas tags podemos filtrar a categoria a ser exibida.
+![imagem2](https://github.com/devfrontwill/DevSpace/assets/106280899/1ad9c6d2-2fc8-4d58-93a4-3cb7dda3edc6)
+
+## Exibindo somente as imagens que estão associadas a Tag "galáxia"
+![imagem3](https://github.com/devfrontwill/DevSpace/assets/106280899/c0cf7e27-bb19-4327-8377-5a82c508bbb9)
+
+## Exibindo somente as imagens que estão associadas a Tag "Lua"
+![imagem4](https://github.com/devfrontwill/DevSpace/assets/106280899/94a76394-fad5-4476-99e8-0a10d02b7bb1)
+
+## Criado um menu hamburguer responsivo para casos de uso em Smartphones e Tablets ( Fechado )
+![imagem5](https://github.com/devfrontwill/DevSpace/assets/106280899/9ca453b3-d90b-4a76-bbc4-e3b8748423f1)
+
+## Criado um menu hamburguer responsivo para casos de uso em Smartphones e Tablets ( Aberto )
+![imagem6](https://github.com/devfrontwill/DevSpace/assets/106280899/6fafa581-3806-4548-aeba-32566dcb8aac)
+
+
+
+
+
+
+
 ---
 
 ## ⚙️ Funcionalidades :
@@ -32,7 +56,8 @@
 - [ ] Exibir mais imagens populares ao clicar no botão ver mais;
 - [ ] Adicionar funcionalidade de ver a imagem em tamanho grande (modal) quando clicar no ícone de expandir na imagem;
 - [ ] Adicionar o recurso de favoritar ou curtir as imagens;
-- [ ] Adicionar rotas e outras páginas na aplicação;
+- [ ] Adicionar rotas e outras páginas na aplica![imagem1](https://github.com/devfrontwill/DevSpace/assets/106280899/caad702f-7257-488a-b4ee-b4e814968e14)
+ção;
 
 ---
 
