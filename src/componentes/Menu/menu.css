@@ -165,7 +165,7 @@ a:hover {
     .menu.menuOpen {
         width: 64vw;
         position: absolute;
-        top: -8%;
+        top: -5%;
         z-index: 5;
         height: 100vh;
         border-radius: 1.3%;
